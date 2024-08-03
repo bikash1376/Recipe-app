@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-### Concept I learnt from this project 
+### Concepts I learned from this project
 
 * **Component-based architecture**: Creating and composing reusable React components to build your UI.
 * **State management**: Using React hooks (useState, useEffect) to manage component state and side effects.
